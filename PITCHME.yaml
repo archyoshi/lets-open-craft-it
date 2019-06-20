@@ -1,0 +1,10 @@
+# Let's open craft it - presentation on GitPitch
+
+theme : template
+theme-override: assets/css/PITCHME.css
+layout : center
+footnote : "Presented by Thami Inaflas - @Archyoshi - Hosted by La Combe Du Lion Vert"
+published : false
+
+title : "Let's open craft it - 1"
+description : "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
