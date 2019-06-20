@@ -1,3 +1,10 @@
+.headline {
+  color: white;
+  font-weight: bold;
+  font-size: 2em !important;
+  font-variant: small-caps !important;
+}
+
 .spaced li {
   margin:0 0 10px 0;
 }
@@ -6,3 +13,14 @@
   box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
 }
 
+.reveal .toc {
+  font-size: 0.7em;
+}
+
+.reveal h3 {
+  color: orange !important;
+}
+
+.underline {
+  text-decoration: underline;
+}
