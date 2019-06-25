@@ -2,4 +2,4 @@
 
 Slides for the event Let's Open Craft it
 Author and speaker : Thami Inaflas
-Hosted by : La Combe Du Lion Vert
+Hosted by : La Combe Du Lion Vert and Arolla
