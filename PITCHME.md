@@ -1,5 +1,5 @@
 # @color[orange](L)et's @color[orange](O)pen @color[orange](C)raft @color[orange](I)t
-### Edition 1
+### Edition 0
 
 ---
 
@@ -162,6 +162,14 @@ When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map.
 @snap[north span-100]
 # Thanks !
 @snapend
+
+Thanks to all participants for being here :
+- Zineb
+- Mahdiou
+- Arnaud
+- Arnaud 2
+- Ibtissam
+- Fabrice
 
 @snap[midpoint span-80]
 @ul[](false)
