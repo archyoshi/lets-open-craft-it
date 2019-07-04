@@ -163,8 +163,6 @@ When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map.
 # Thanks !
 @snapend
 
----
-
 ### Thanks to all participants for being here :
 - Zineb
 - Mahdiou
@@ -172,6 +170,8 @@ When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map.
 - Arnaud 2
 - Ibtissam
 - Fabrice
+
+---
 
 @snap[midpoint span-80]
 @ul[](false)
