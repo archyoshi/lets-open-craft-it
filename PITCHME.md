@@ -163,7 +163,9 @@ When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map.
 # Thanks !
 @snapend
 
-Thanks to all participants for being here :
+---
+
+### Thanks to all participants for being here :
 - Zineb
 - Mahdiou
 - Arnaud
