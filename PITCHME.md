@@ -160,16 +160,19 @@ When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map.
 
 ---
 @snap[north span-100]
-# Thanks !
+### Thanks to all participants for being here :
 @snapend
 
-### Thanks to all participants for being here :
-- Zineb
-- Mahdiou
-- Arnaud
-- Arnaud 2
-- Ibtissam
-- Fabrice
+@snap[midpoint toc]
+@ul[](false)
+* Zineb
+* Mahdiou
+* Arnaud
+* Arnaud 2
+* Ibtissam
+* Fabrice
+@ulend
+@snapend
 
 ---
 
