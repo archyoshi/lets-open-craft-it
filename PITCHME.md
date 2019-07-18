@@ -27,7 +27,7 @@
 ### A brief reminder ...
 @snapend
 
-@snap[midpoint toc span-100]
+@snap[midpoint toc span-80]
 @ul[](false)
   * intro to open source contributing process
   * some notes and discussions
@@ -49,9 +49,11 @@ $ git fetch upstream
 $ git checkout master
 $ git merge upstream/master
 ```
- More info here : [syncing a fork](https://help.github.com/en/articles/syncing-a-fork)
+@ul[](false)
+* More info here : [syncing a fork](https://help.github.com/en/articles/syncing-a-fork)
+* and some more here : [setup remote](https://www.neonscience.org/git-setup-remote)
+@ulend
 
-and some more here : [setup remote](https://www.neonscience.org/git-setup-remote)
 ---
 
 # Let's start crafting
