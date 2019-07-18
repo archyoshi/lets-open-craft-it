@@ -124,7 +124,10 @@ When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map.
 
 @snap[midpoint toc]
 @ul[](false)
-*
+* Pierre
+* Mahdiou
+* Nicolas
+* Othman
 @ulend
 @snapend
 
