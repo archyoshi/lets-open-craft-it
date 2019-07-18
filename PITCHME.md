@@ -27,8 +27,8 @@
 ### A brief reminder ...
 @snapend
 
-@snap[east span-70 text-white]
-@ul
+@snap[midpoint toc]
+@ul[](false)
   * intro to open source contributing process
   * some notes and discussions
   * live demo
