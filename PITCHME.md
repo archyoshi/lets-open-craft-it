@@ -88,7 +88,7 @@ $ git merge upstream/master
 ### the issue (from last time)
 @snapend
 
-@snap[west span-80]
+@snap[west span-90]
 [Display group of values in ShouldHaveSameSizeAs](https://github.com/joel-costigliola/assertj-core/issues/1522)
 <br /><br />
 When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map. It might certainly be useful to show both iterable/array/map to ease understanding why the sizes differ.
@@ -99,11 +99,12 @@ When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map.
 ### a new issue to investigate
 @snapend
 
-@snap[west span-80]
+@snap[west span-90]
 [Provide comparable assertions for non comparable class when given a comparator](https://github.com/joel-costigliola/assertj-core/issues/1492)
 <br /><br />
 
 *Comparable assertions* are restricted to Comparable types, this could extended for non Comparable types if a proper Comparator is given.
+@snapend
 
 ```java
 Foo foo1 = ...;
@@ -111,8 +112,6 @@ Foo foo2 = ...;
 FooComparator fooComparator = ...;
 assertThat(foo1).usingComparator(fooComparator).isGreaterThan(foo2);
 ```
-@snapend
-
 ---
 @snap[north span-100]
 ### Thanks to all participants for being here :
