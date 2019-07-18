@@ -106,11 +106,16 @@ When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map.
 *Comparable assertions* are restricted to Comparable types, this could extended for non Comparable types if a proper Comparator is given.
 @snapend
 
++++
+@snap[north span-100]
+### a new issue to investigate
+@snapend
+
 ```java
-Foo foo1 = ...;
-Foo foo2 = ...;
-FooComparator fooComparator = ...;
-assertThat(foo1).usingComparator(fooComparator).isGreaterThan(foo2);
+  Foo foo1 = ...;
+  Foo foo2 = ...;
+  FooComparator fooComparator = ...;
+  assertThat(foo1).usingComparator(fooComparator).isGreaterThan(foo2);
 ```
 ---
 @snap[north span-100]
