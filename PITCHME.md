@@ -27,7 +27,7 @@
 ### A brief reminder ...
 @snapend
 
-@snap[midpoint toc]
+@snap[midpoint toc span-100]
 @ul[](false)
   * intro to open source contributing process
   * some notes and discussions
