@@ -1,4 +1,4 @@
-# @color[orange](L)et's @color[orange](O)pen @color[orange](C)raft @color[orange](I)t
+# @color[orange](H)ow to @color[orange](C)ontribute to @color[orange](O)pen @color[orange](S)ource
 ### Edition 0
 
 ---
@@ -9,61 +9,49 @@
 
 @snap[midpoint toc]
 @ul[](false)
-* It starts...
-  * A bit about me ...
-  * Define : Let's open craft it
-  * The project : AssertJ
-  * Finally some code !!
-* Let's read some stuff
-  * The issue
-  * Contribution guidelines
-* Let's start crafting
-  * Clone & Craft
-  * Contribute !
-* Retro / Feedback
+* Open Source you say ?
+* A simple recipe...
+* Some technical gestures to get you going...
+* Let's give it a try
+* Your turn...
+* Visit me @ Let's Open Craft it !
 @ulend
 @snapend
 ---
-# It starts...
-
-+++?image=template/img/bg/white.jpg&position=left&size=10% 100%
 
 @snap[north span-100]
-### A bit about me ...
+### Open Source you say ?
 @snapend
 
-@snap[west span-30]
-![](assets/img/profile_me.jpg)
-@snapend
-
-@snap[east span-70 text-white]
-@ul
-  * Engineer, software craftsman (and proud to be)
-  * Java++ / search engines
-  * love games, music and life
-@ulend
-@snapend
-
-+++
-
-@snap[north span-100]
-### Define : Let's open craft it
-@snapend
+give a simple definition of what I consider is open source,
+and say that there are many knids and types
 
 @snap[west span-15]
 ![osi_logo](https://opensource.org/files/osi_standard_logo_0.png)
 @snapend
 
-@snap[east span-80]
-@color[orange](**Learn**) together and @color[orange](**contribute**) to @color[orange](**open-source**) projects
-<br><br>
-@color[orange](**Apprendre**) ensemble et @color[orange](**contribuer**) à des projets @color[orange](**open-source**)
+---
+
+@snap[north span-100]
+### A simple recipe...
 @snapend
+
+@snap[midpoint toc]
+@ul[](false)
+* Choose a project that inspires you and you feel like you want to help growing
+* Check whether this project is "really active"
+* start checking out the issue, tags etc.
+* pick up one where you want to start
+* read contribution guidelines
+* Clone project, do the magic then send the pull request
+@ulend
+@snapend
+
 
 +++
 
 @snap[north span-100]
-### The project : AssertJ
+### Some technical gestures to get you going...
 @snapend
 
 @snap[west span-100]
@@ -72,44 +60,9 @@
 [AssertJ](https://github.com/joel-costigliola/assertj-core) is a @css[underline](*java library*) providing a rich set of @css[underline](*assertions*), truly helpful error messages, improves @css[underline](*test code readability*) and is designed to be super easy to use within your favorite IDE.
 @snap[north span-100]
 
-+++
-@snap[north span-100]
-### Finally some code !!
-@snapend
-
-```java
-import static org.assertj.core.api.Assertions.assertThat;
-import org.junit.jupiter.api.Test;
-public class SimpleAssertionsExample {
-  @Test
-  void a_few_simple_assertions() {
-    assertThat("The Lord of the Rings").isNotNull()   
-                                       .startsWith("The")
-                                       .contains("Lord")
-                                       .endsWith("Rings");
-  }
-}
-```
-
-@snap[south-west template-note text-gray]
-@size[0.5em](Example taken from https://assertj.github.io/doc/#assertj-core-assertions-guide)
-@snapend
-
 ---
 
 # Let's read some stuff
-
-+++
-
-@snap[north span-100]
-### The issue
-@snapend
-
-@snap[west]
-[Display group of values in ShouldHaveSameSizeAs](https://github.com/joel-costigliola/assertj-core/issues/1522)
-<br><br>
-When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map. It might certainly be useful to show both iterable/array/map to ease understanding why the sizes differ.
-@snapend
 
 +++
 
@@ -156,22 +109,6 @@ When *hasSameSizeAs* fails, it only displays the size of the iterable/array/map.
 <br><br>
 <br><br>
 @fa[refresh fa-3x]
-@snapend
-
----
-@snap[north span-100]
-### Thanks to all participants for being here :
-@snapend
-
-@snap[midpoint toc]
-@ul[](false)
-* Zineb
-* Mahdiou
-* Arnaud
-* Arnaud 2
-* Ibtissam
-* Fabrice
-@ulend
 @snapend
 
 ---
