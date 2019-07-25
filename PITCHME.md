@@ -1,7 +1,10 @@
 @snap[midpoint span-90]
 ## @color[orange](H)ow to @color[orange](C)ontribute to @color[orange](O)pen @color[orange](S)ource
 @snapend
+@snap[south span-100]
 ### Special Edition
+@snapend
+
 
 ---
 
