@@ -71,12 +71,12 @@ Open source doesn't only mean "free", but it's also has lot more advantages like
 ### Forking !
 @snapend
 
-@snap[south span-100]
+@snap[span-100]
 ![forking](https://www.dataschool.io/content/images/2014/Mar/github1.png)
 @snapend
 
 @snap[south template-note text-gray span-100]
-@size[0.3em](image from https://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
+@size[0.5em](image from https://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
 @snapend
 
 +++
@@ -99,12 +99,12 @@ $ git merge upstream/master
 ### Syncing !
 @snapend
 
-@snap[south span-100]
+@snap[span-100]
 ![syncing](https://www.dataschool.io/content/images/2014/Mar/github2.png)
 @snapend
 
 @snap[south template-note text-gray span-100]
-@size[0.3em](image from https://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
+@size[0.5em](image from https://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
 @snapend
 ---
 
