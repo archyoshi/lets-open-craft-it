@@ -24,3 +24,8 @@
 .underline {
   text-decoration: underline;
 }
+
+.underline-red{
+  text-decoration: underline;
+  text-decoration-color: red;
+}

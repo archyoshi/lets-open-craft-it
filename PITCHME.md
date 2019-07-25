@@ -5,9 +5,7 @@
 ### Special Edition
 @snapend
 
-
 ---
-
 @snap[north span-100]
 ### What's on the menu ?...
 @snapend
@@ -135,7 +133,7 @@ $ git merge upstream/master
 * naming conventions for variables, test classes
 * where to contribute, merge, fork ?
 * general guidelines for code style
-* javadoc style (if it's java of course ;) )
+* javadoc style (if it's java of course :D )
 * legal stuff
 @ulend
 @snapend
@@ -145,8 +143,8 @@ $ git merge upstream/master
 ## Now it's your turn !
 @snapend
 
-@snap[midpoint span-100]
-Don't forget, even correcting a spelling mistake in a documentation is considered as a contribution :)
+@snap[midpoint span-90]
+Don't forget, even correcting a @css[underline-red](speling) mistake in a documentation is considered as a contribution :)
 so don't be shy nor afraid, and go ahead, do your first contribution !
 @snapend
 
