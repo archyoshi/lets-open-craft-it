@@ -61,11 +61,13 @@ Open source doesn't only mean "free", but it's also has lot more advantages like
 ### Some technical gestures to get you going...
 @snapend
 
+@snap[west span-80]
 @ul[](false)
 * you need a fork, not a knife ;)
 * clone it to your computer
 * make a wonderful commit
 @ulend
+@snap[north span-100]
 
 +++
 @snap[north span-100]
