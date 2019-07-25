@@ -1,5 +1,7 @@
-# @color[orange](H)ow to @color[orange](C)ontribute to @color[orange](O)pen @color[orange](S)ource
-### Edition 0
+@snap[north span-100]
+## @color[orange](H)ow to @color[orange](C)ontribute to @color[orange](O)pen @color[orange](S)ource
+@snapend
+### Special Edition
 
 ---
 
@@ -23,25 +25,29 @@
 ### Open Source you say ?
 @snapend
 
-give a simple definition of what I consider is open source,
-and say that there are many knids and types
-
 @snap[west span-15]
 ![osi_logo](https://opensource.org/files/osi_standard_logo_0.png)
 @snapend
 
+@snap[east span-80]
+The term "open source" refers to something people @css[underline](*can modify*) and @css[underline](*share*) because its design is @css[underline](*publicly accessible*).
+
+Open source doesn't only mean "free", but it's also has lot more advantages like : Control, Secutiry, stability etc...
+@snapend
+
+@snap[south-west template-note text-gray] @size[0.5em](Find more info here at https://opensource.com/resources) @snapend
 ---
 
 @snap[north span-100]
 ### A simple recipe...
 @snapend
 
-@snap[midpoint toc]
-@ul[](false)
-* Choose a project that inspires you and you feel like you want to help growing
+@snap[midpoint toc span-100]
+@ul
+* Choose a project that inspires you
 * Check whether this project is "really active"
-* start checking out the issue, tags etc.
-* pick up one where you want to start
+* Go to visit :)
+* pick up an issue where you want to start
 * read contribution guidelines
 * Clone project, do the magic then send the pull request
 @ulend
@@ -117,6 +123,6 @@ and say that there are many knids and types
 @ul[](false)
 - Follow me on twitter [@archyoshi](http://twitter.com/archYoshi)
 - Find me on linkedin [inaflasthami](https://www.linkedin.com/in/inaflasthami/)
-- Find my slides at [https://gitpitch.com/archyoshi/lets-open-craft-it-1](https://gitpitch.com/archyoshi/lets-open-craft-it-1)
+- Find my slides at [https://gitpitch.com/archyoshi/lets-open-craft-it](https://gitpitch.com/archyoshi/lets-open-craft-it)
 @ulend
 @snapend
