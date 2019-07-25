@@ -29,9 +29,10 @@
 @snapend
 
 @snap[east span-80 text-left]
-The term "open source" refers to something people @css[underline](*can modify*) and @css[underline](*share*) because its design is @css[underline](*publicly accessible*).
-<br>
-Open source doesn't only mean "free", but it's also has lot more advantages like : Control, Secutiry, stability etc...
+The term "open source" refers to something people @css[underline](**can modify**) and @css[underline](**share**) because its design is @css[underline](**publicly accessible**).
+<br><br>
+Open source doesn't only mean "free", but it's also has lot more advantages like :\
+(*Control, Secutiry, stability etc...*)
 @snapend
 
 @snap[south template-note text-gray span-100]
