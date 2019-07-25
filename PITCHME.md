@@ -56,7 +56,6 @@ Open source doesn't only mean "free", but it's also has lot more advantages like
 @snapend
 
 ---
-
 @snap[north span-100]
 ### Some technical gestures to get you going...
 @snapend
@@ -66,6 +65,11 @@ Open source doesn't only mean "free", but it's also has lot more advantages like
 * clone it to your computer
 * make a wonderful commit
 @ulend
+
++++
+@snap[north span-100]
+### Forking !
+@snapend
 
 @snap[south span-100]
 ![forking](https://www.dataschool.io/content/images/2014/Mar/github1.png)
@@ -86,6 +90,12 @@ $ git fetch upstream
 $ git checkout master
 $ git merge upstream/master
 ```
+
++++
+@snap[north span-100]
+### Syncing !
+@snapend
+
 @snap[south span-100]
 ![syncing](https://www.dataschool.io/content/images/2014/Mar/github2.png)
 @snapend
@@ -130,7 +140,8 @@ $ git merge upstream/master
 @snapend
 
 @snap[midpoint span-100]
-Don't forget, even correcting a spelling mistake in a documentation is considered as a contribution :) so don't be shy nor afraid, and go ahead, do your first contribution !
+Don't forget, even correcting a spelling mistake in a documentation is considered as a contribution :)
+so don't be shy nor afraid, and go ahead, do your first contribution !
 @snapend
 
 ---
