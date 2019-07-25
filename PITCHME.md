@@ -1,4 +1,4 @@
-@snap[north span-100]
+@snap[midpoint span-90]
 ## @color[orange](H)ow to @color[orange](C)ontribute to @color[orange](O)pen @color[orange](S)ource
 @snapend
 ### Special Edition
@@ -15,8 +15,7 @@
 * A simple recipe...
 * Some technical gestures to get you going...
 * Let's give it a try
-* Your turn...
-* Visit me @ Let's Open Craft it !
+* Your turn now !
 @ulend
 @snapend
 ---
@@ -29,13 +28,15 @@
 ![osi_logo](https://opensource.org/files/osi_standard_logo_0.png)
 @snapend
 
-@snap[east span-80]
+@snap[west span-80]
 The term "open source" refers to something people @css[underline](*can modify*) and @css[underline](*share*) because its design is @css[underline](*publicly accessible*).
 
 Open source doesn't only mean "free", but it's also has lot more advantages like : Control, Secutiry, stability etc...
 @snapend
 
-@snap[south-west template-note text-gray] @size[0.5em](Find more info here at https://opensource.com/resources) @snapend
+@snap[south template-note text-gray]
+@size[0.5em](Find more info here at https://opensource.com/resources)
+@snapend
 ---
 
 @snap[north span-100]
