@@ -90,7 +90,10 @@ $ git fetch upstream
 $ git checkout master
 $ git merge upstream/master
 ```
-
+@ul[](false)
+* More info here : [syncing a fork](https://help.github.com/en/articles/syncing-a-fork)
+* and some more here : [setup remote](https://www.neonscience.org/git-setup-remote)
+@ulend
 +++
 @snap[north span-100]
 ### Syncing !
